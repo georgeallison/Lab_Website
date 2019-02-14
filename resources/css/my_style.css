@@ -1,0 +1,15 @@
+/* Add any css you want to use for you website here */
+.buffHomeImg {
+    float:left;
+    margin-right: 20px;
+}
+.imgDetails {
+    position: relative;
+    float:left;
+    height: 280px;
+    width: 150px;
+    }
+    .imgDetails p {
+        position: absolute;
+        bottom: 0;
+        }
